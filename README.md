@@ -1,16 +1,43 @@
 ### Hi there 👋
+ 
+I'm a smart contract engineer.
 
+
+#### Top Blockchain Repositories
+
+Defi-project is Dapp on Ethereum where users can deposit various ERC-20 token and earn a yield. The farming contract interact with Aave and Compound to earn a yield on the user's deposited tokens. The smart contracts are written in Solidity and deployment/testing in done with the brownie framework.  
+
+Nft-marketplace-vyper is a marketplace for NFT where users can sell and buy any ERC721 tokens. The more a user buy/sell NFTs on the marketplace, the more MarketCoin token he will receive. He can then use those coins to mint MarketNFTs, a custom NFT for the marketplace.
+All contracts have a full suite of tests and are all written in Vyper.  
+
+<a href="https://github.com/MikeSpa/defi-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=defi-project&theme=buefy" />
+</a>
+<a href="https://github.com/MikeSpa/nft-marketplace-vyper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=nft-marketplace-vyper&theme=buefy" />
+</a>
+
+#### Solidity Security CTF Solution and Write-up
+
+These two repos are my solutions and write-ups to the security CTF for DamnVulnerableDeFi and OpenZeppelin's Ethernaut. It shows the most common vulnerabilities in Solidity, how to exploit them, and how to protect your smart contracts against hackers.  
+
+<a href="https://github.com/MikeSpa/DamnVulnerableDeFi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=DamnVulnerableDeFi&theme=buefy" />
+</a>
+<a href="https://github.com/MikeSpa/ethernaut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=ethernaut&theme=buefy" />
+</a>
+
+#### Misc.
+
+A smart contract on the Stacks blockchain on top of Bitcoin. It allows charities to register on the app and users can then donate funds to the charity of their choice. The charity can then withdraw the donation at any time.  
+
+<a href="https://github.com/MikeSpa/charity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=charity&theme=buefy" />
+</a>
+
+<br>
+<br>
 <!--
-**MikeSpa/MikeSpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
