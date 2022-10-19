@@ -38,6 +38,15 @@ A smart contract on the Stacks blockchain on top of Bitcoin. It allows charities
 
 <br>
 <br>
+
+A repo with a detailed analysis of all the majors exploit that happen on Ethereum.
+
+<a href="https://github.com/MikeSpa/ethereum-exploit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=ethereum-exploit&theme=buefy" />
+</a>
+
+<br>
+<br>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
