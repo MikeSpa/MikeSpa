@@ -29,17 +29,7 @@ These two repos are my solutions and write-ups to the security CTF for DamnVulne
 </a>
 
 #### Misc.
-
-A smart contract on the Stacks blockchain on top of Bitcoin. It allows charities to register on the app and users can then donate funds to the charity of their choice. The charity can then withdraw the donation at any time.  
-
-<a href="https://github.com/MikeSpa/charity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=charity&theme=buefy" />
-</a>
-
-<br>
-<br>
-
-A repo with a detailed analysis of all the majors exploit that happen on Ethereum.
+A repo with a detailed analysis of all the majors exploit that took place on Ethereum.
 
 <a href="https://github.com/MikeSpa/ethereum-exploit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=ethereum-exploit&theme=buefy" />
@@ -50,3 +40,18 @@ A repo with a detailed analysis of all the majors exploit that happen on Ethereu
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+Two projects on the Stacks blockchain on top of Bitcoin. A DEX where users can provide liquidity (and earn LP token) and swap STX for tokens. And a board that allow users to donate funds to the charity of their choice.
+
+<a href="https://github.com/MikeSpa/dex-on-stacks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=dex-on-stacks&theme=buefy" />
+</a>
+<a href="https://github.com/MikeSpa/charity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSpa&repo=charity&theme=buefy" />
+</a>
+
+
+<br>
+<br>
+
+
