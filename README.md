@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-I'm a smart contract engineer.
+I'm a data scientist.
 
 
 #### Top Blockchain Repositories
